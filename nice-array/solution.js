@@ -7,6 +7,6 @@ function isNice(arr){
       if(!(arr.includes(array - 1) || arr.includes(array + 1))){
         return false;
       }
-    }
+     }
     return true;
  }
